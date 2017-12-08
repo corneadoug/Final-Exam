@@ -10,7 +10,6 @@ Pour cet exercice, il vous faudra faire un peu de **Markdown**
 * Vous ne pouvez pas faire de commit directement dans la branche `solution/exo-02`, il vous faudra creer de nouvelles branches, creer des **Pull Requests** et les **Merger** dans `solution/exo-02`
 * A la fin de l'exercice, vous devrez creer une **Pull Request** de `solution/exo-02` vers `exo-02` **MAIS NE PAS LA MERGER**
 
-
 ## Liens Utiles
 * [Doc Markdown](https://guides.github.com/features/mastering-markdown/)
 * [Imdb](http://www.imdb.com/title/tt0232500/)
@@ -35,3 +34,4 @@ _(Attention: on ne peut pas faire un `git add` sur un dossier vide)_
 * L'annee du film en gras et entre parentheses
 * D'une liste des noms des 3 premiers acteurs du film
 * D'un lien vers la page imdb du film
+
