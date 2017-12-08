@@ -4,7 +4,7 @@
 
 * Durée du film: 132mns *
 
-**(L'année du film: 2011)
+**(L'année du film: 2011)**
 
 * Acteur 1: Vin Diesel
 * Acteur 2: Paul Walker

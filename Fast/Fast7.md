@@ -4,7 +4,7 @@
 
 * Durée du film: 140mns *
 
-**(L'année du film: 2015)
+**(L'année du film: 2015)**
 
 * Acteur 1: Vin Diesel
 * Acteur 2: Paul Walker
