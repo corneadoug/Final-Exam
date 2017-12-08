@@ -1,8 +1,8 @@
 # Titre: Fast and the Furious: Tokyo Drift
 
-<center>![FF3](https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ2NTMxODEyNV5BMl5BanBnXkFtZTcwMDgxMjA0MQ@@._V1_SY999_CR0,0,676,999_AL_.jpg)</center>
+![FF3](https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ2NTMxODEyNV5BMl5BanBnXkFtZTcwMDgxMjA0MQ@@._V1_SY999_CR0,0,676,999_AL_.jpg)
 
-* Durée du film: 104mns *
+*Durée du film: 104mns*
 
 **(L'année du film: 2006)**
 

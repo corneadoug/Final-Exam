@@ -1,8 +1,8 @@
 # Titre: Fast and the Furious 7
 
-<center>![FF3](https://images-na.ssl-images-amazon.com/images/M/MV5BMTQxOTA2NDUzOV5BMl5BanBnXkFtZTgwNzY2MTMxMzE@._V1_SY1000_CR0,0,631,1000_AL_.jpg)</center>
+![FF3](https://images-na.ssl-images-amazon.com/images/M/MV5BMTQxOTA2NDUzOV5BMl5BanBnXkFtZTgwNzY2MTMxMzE@._V1_SY1000_CR0,0,631,1000_AL_.jpg)
 
-* Durée du film: 140mns *
+*Durée du film: 140mns*
 
 **(L'année du film: 2015)**
 

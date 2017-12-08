@@ -1,8 +1,8 @@
 # Titre: Fast and the Furious 5
 
-<center>![FF3](https://images-na.ssl-images-amazon.com/images/M/MV5BMTUxNTk5MTE0OF5BMl5BanBnXkFtZTcwMjA2NzY3NA@@._V1_SY1000_CR0,0,675,1000_AL_.jpg)</center>
+![FF3](https://images-na.ssl-images-amazon.com/images/M/MV5BMTUxNTk5MTE0OF5BMl5BanBnXkFtZTcwMjA2NzY3NA@@._V1_SY1000_CR0,0,675,1000_AL_.jpg)
 
-* Durée du film: 132mns *
+*Durée du film: 132mns *
 
 **(L'année du film: 2011)**
 
