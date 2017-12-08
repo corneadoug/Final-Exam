@@ -1,8 +1,8 @@
 # Titre: Fast and the Furious
 
-<center> ![FF1]https://static.rogerebert.com/uploads/movie/movie_poster/the-fast-and-the-furious-2001/large_3cucyEuLOOjjJ8nem5facsTEy68.jpg "FF1") </center>
+![FF1]https://static.rogerebert.com/uploads/movie/movie_poster/the-fast-and-the-furious-2001/large_3cucyEuLOOjjJ8nem5facsTEy68.jpg "FF1")
 
-* Durée du film: 106mns *
+*Durée du film: 106mns*
 
 **(L'année du film: 2001)**
 
