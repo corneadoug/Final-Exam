@@ -1,6 +1,6 @@
 ﻿# Fast&Furious 8
 
-<div style="text-align:center"><img src="http://www.purepeople.com/media/affiche-de-fast-amp-furious-8_m3202975"></div>
+<div style="text-align:center"><img src="http://static1.purepeople.com/articles/8/23/15/68/@/3202975-affiche-de-fast-amp-furious-8-950x0-1.jpg"></div>
 
 * Durée du film : *2h18*
 * Année du film : **(2017)**
