@@ -1,0 +1,6 @@
+- Cours trop rapide
+- Ne faire de raccourcie, si tu fait quelque chose l'expliquer même si ce n'as pas de réel importantce en cours ca nous permet de comprendre
+- Pas de cours cours ecrit (au  moins le sprincipal fonction et syntaxe) car si on ne comprend pas ton explication une fois arrivé sur les exercices ont avance plus
+- Notation/ devoir au niveau de se quon as vus avec un temps d'exécution réaliste pour des débutant!
+- faire de stutos pour l'installation de logiciel plutôt que de le faire en cours mais du débug oui.
+- pour Angular -> prendre le temps d'expliquer le cours avec un support en retour 
